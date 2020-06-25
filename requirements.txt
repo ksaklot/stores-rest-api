@@ -3,3 +3,4 @@ Flask-RESTful
 Flask-Jwt
 Flask-SQLAlchemy
 uwsgi
+psycopg2
